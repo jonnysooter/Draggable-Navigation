@@ -112,13 +112,13 @@ img {
 	width: 117px;
 	top: -70px;
 	padding-bottom: 1px;
-	background: url('images/sprite-slider.png') no-repeat;
+	background: url('../images/sprite-slider.png') no-repeat;
 	font-weight: bold;
 	color: #FFF;
 	text-decoration: none;
 	text-align: center;
 	line-height: 179px;
-	cursor:url('images/cursor-grab.gif'),move;
+	cursor:url('../images/cursor-grab.gif'),move;
 }
 
 .handle:hover {
@@ -126,14 +126,14 @@ img {
 }
 
 .handle:active {
-	cursor:url("images/cursor-grabbing.gif"),move;
+	cursor:url("../images/cursor-grabbing.gif"),move;
 }
 
 .nav-areas {
 	position: relative;
 	z-index: 3;
 	float: left;
-	background: url("images/bg_dark_ie.png") repeat top #343434;
+	background: url("../images/bg_dark_ie.png") repeat top #343434;
 }
 
 ul.nav-areas {
