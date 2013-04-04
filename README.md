@@ -11,5 +11,5 @@ Made by Jonny Sooter
 	Most styles are set automatically if not overridden.
 
 2. Select appropriate elements to be used.   
-	A. Select the content container: sliderContent: $('div')   
-	B. Select the navigation container (ie. the ul or containing div): $('ul')
+	A. Select the content container: "sliderContent: $('div')"   
+	B. Select the navigation container (ie. the ul or containing div): "sectionsWrap: $('ul')"
