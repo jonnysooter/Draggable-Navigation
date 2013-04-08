@@ -13,3 +13,5 @@ Made by Jonny Sooter
 2. Select appropriate elements to be used.   
 	A. Select the content container: "sliderContent: $('div')"   
 	B. Select the navigation container (ie. the ul or containing div): "sectionsWrap: $('ul')"
+
+3. Say Yolo and get on with your life.
