@@ -1,4 +1,17 @@
-//Content Slider by Jonny Sooter
+/*!
+* Draggable Navigation Plugin
+* Description: Use the draggable handle to show/hide content
+*
+* Includes jQuery & jQuery UI
+* http://jquery.com/
+*
+* Copyright 2013 Jonathan Sooter
+* Released under the MIT license
+* https://github.com/jonnysooter/Draggable-Navigation/blob/master/MIT-LICENSE.txt
+*
+* Date: 2013-2-4
+*/
+
 ;(function ($) {
 
     var Slider = {
