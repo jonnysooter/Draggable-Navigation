@@ -14,4 +14,4 @@ Made by Jonny Sooter
 	A. Select the content container: "sliderContent: $('div')"   
 	B. Select the navigation container (ie. the ul or containing div): "sectionsWrap: $('ul')"
 
-3. Say Yolo and get on with your life.
+3. Say <del>YOLO</del> <ins>AWW YEAHH!!</ins> and get on with your life.
